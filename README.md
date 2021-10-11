@@ -1,2 +1,2 @@
 # Monse-Osorio-1108-
-Repositoria de la atrea 
+Repositorio de la tarea 
